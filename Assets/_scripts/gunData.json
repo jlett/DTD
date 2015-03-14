@@ -1,0 +1,107 @@
+{
+	"attachments" : [
+		{"name" : "Larger Clip", "clipSize" : "1.2"},
+		{"name" : "Higher Damage", "damage" : "1.2"},
+		{"name" : "Faster Fire", "fireRate" : "1.2"}
+	],
+	
+	"gunParts" : [
+		{"pistol" : [
+			{
+				"name" : "Golden Pistol",
+				"dropMod" : 0.1,
+				"clip" : {"reload" : 1.1},
+				"body" : {"firerate" : 1.1},
+				"barrel" : {"accuracy" : 1.1}
+			},
+			{
+				"name" : "Pistol 1",
+				"clip" : {"reload" : 1.1},
+				"body" : {"firerate" : 1.1},
+				"barrel" : {"accuracy" : 1.1}
+			},
+			{"2" : {
+				"name" : "Pistol 2",
+				"clip" : {"reload" : 1.1},
+				"body" : {"firerate" : 1.1},
+				"barrel" : {"accuracy" : 1.1}
+			}},
+			{"3" : {
+				"name" : "Pistol 3",
+				"clip" : {"reload" : 1.1},
+				"body" : {"firerate" : 1.1},
+				"barrel" : {"accuracy" : 1.1}
+			}},
+			{"4" : {
+				"name" : "Pistol 4",
+				"clip" : {"reload" : 1.1},
+				"body" : {"firerate" : 1.1},
+				"barrel" : {"accuracy" : 1.1}
+			}},
+			{"5" : {
+				"name" : "Pistol 5",
+				"clip" : {"reload" : 1.1},
+				"body" : {"firerate" : 1.1},
+				"barrel" : {"accuracy" : 1.1}
+			}}
+		]},
+		{"smg" : [
+			{"0" : {
+				"name" : "Golden SMG",
+				"dropMod" : 0.1,
+				"clip" : {"reload" : 1.1},
+				"body" : {"firerate" : 1.1},
+				"barrel" : {"accuracy" : 1.1}
+			}},
+			{"1" : {
+				"name" : "SMG 1",
+				"clip" : {"reload" : 1.1},
+				"body" : {"firerate" : 1.1},
+				"barrel" : {"accuracy" : 1.1}
+			}},
+			{"2" : {
+				"name" : "SMG 2",
+				"clip" : {"reload" : 1.1},
+				"body" : {"firerate" : 1.1},
+				"barrel" : {"accuracy" : 1.1}
+			}},
+			{"3" : {
+				"name" : "SMG 3",
+				"clip" : {"reload" : 1.1},
+				"body" : {"firerate" : 1.1},
+				"barrel" : {"accuracy" : 1.1}
+			}}
+		]}
+	],
+	
+	"uniqueGunParts" : [
+		{"unknown" : [
+			{"clip" : [
+				{"name" : "Unkown Clip"}
+			]},
+			{"base" : [
+				{"name" : "Unkown Base"}
+			]},
+			{"barrel" : [
+				{"name" : "Unkown Barrel"}
+			]}
+		]},
+		{"nomina" : [
+			{"clip" : [
+				{"name" : "Nomina Clip"}
+			]},
+			{"base" : [
+				{"name" : "Nomina Base"}
+			]},
+			{"barrel" : [
+				{"name" : "Nomina Barrel"}
+			]}
+		]}
+	],
+	
+	"gunPrefixes" : [
+		{"name" : "terrible", "chance" : 25, "multipliers" : [0.5, 0.5, 0.5]},
+		{"name" : "", "chance" : 50},
+		{"name" : "godly", "chance" : 25, "multipliers" : [2, 2, 2]}
+	]
+}
